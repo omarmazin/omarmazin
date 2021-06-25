@@ -1,4 +1,4 @@
-### Here is what i'm working on !
+### About me !
 
 Here are some ideas to get you started:
 
