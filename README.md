@@ -1,8 +1,8 @@
 ### About me !
 
-Here are some ideas to get you started:
+### Some information about me Here :
 
-- 🔭 I’m currently workig on ... Twitter
+- 🔭 my Educational level ... High school
 - 🌱 I’m currently learning ... C++
 - 👯 I would like to work in a company ... Oracle - microsoft 
 - 💬 Ask me about ... Anything
