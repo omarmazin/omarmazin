@@ -11,7 +11,7 @@
 
 - 🤝 Programming Languages : **Python , Vb , Php**
 
-- 📝 I regularly write articles on my [Blog](https://omarmazinb.blogspot.com)
+- 📝 I regularly write articles on Gitbook [my Blog](https://omr-ad.gitbook.io/omar-s-blog/)
 
 - 💬 Ask me about **Anything (:**
 
