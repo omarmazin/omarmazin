@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working At : **Home**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **.NET Development**
 
 - 👯 Academic level : **Highschool**
 
