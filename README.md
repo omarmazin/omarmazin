@@ -11,8 +11,6 @@
 
 - 🤝 Programming Languages : **Python , Vb , Php**
 
-- 📝 I regularly write articles on Gitbook [my Blog](https://omarmazinb.blogspot.com/)
-
 - 💬 Ask me about **Anything (:**
 
 - 📫 How to reach me **omr.ad@outlook.com**
