@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working At : **Home**
 
-- 🌱 I’m currently learning **Development**
+- 🌱 I’m currently learning **Web Development**
 
 - 👯 Academic level : **Highschool**
 
