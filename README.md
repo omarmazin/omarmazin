@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarmazin&label=Profile%20views&color=0e75b6&style=flat" alt="omarmazin" /> </p>
 
-- 🔭 I’m currently working At : **Home**
+- 🔭 I’m Available for  : **Work as Software engineer > internship**
 
 - 🌱 I’m currently learning **Web Development**
 
