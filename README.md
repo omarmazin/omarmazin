@@ -9,7 +9,7 @@
 
 - 👯 Academic level : **Highschool**
 
-- 🤝 Programming Languages : **Python , Vb , Php**
+- 🤝 Programming Languages : **Python , Vb , Php , React **
 
 - 💬 Ask me about **Anything (:**
 
