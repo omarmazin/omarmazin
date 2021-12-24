@@ -9,7 +9,7 @@
 
 - 👯 Academic level : **Highschool**
 
-- 🤝 Programming Languages : **Python , Vb , Php , Js **
+- 🤝 Programming Languages : Python , Vb , Php , Js 
 
 - 💬 Ask me about **Anything (:**
 
