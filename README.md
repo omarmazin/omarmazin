@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarmazin&label=Profile%20views&color=0e75b6&style=flat" alt="omarmazin" /> </p>
 
-- 🌱 I’m currently learning **React Engineering**
+- 🌱 I’m currently learning **Javascript Engineering**
 
 - 💬 Ask me about **Anything (:**
 
