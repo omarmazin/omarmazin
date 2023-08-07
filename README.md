@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarmazin&label=Profile%20views&color=0e75b6&style=flat" alt="omarmazin" /> </p>
 
-- 🌱 I’m currently learning **Front-End Development**
+- 🌱 I’m currently learning **Front-End Engineering**
 
-- 💬 Ask me about **Anything (:**
+- 💬 Ask me about **React.js**
 
 - 📫 How to reach me **omarbawazir42@gmail.com**
 
