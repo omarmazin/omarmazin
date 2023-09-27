@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
-<h3 align="center">Software Engineering</h3>
+<h3 align="center">Software Develope</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarmazin&label=Profile%20views&color=0e75b6&style=flat" alt="omarmazin" /> </p>
 
-- 🌱 I’m currently learning **Front-End Engineering**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 💬 Ask me about **React.js**
 
